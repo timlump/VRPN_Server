@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemSetTest", "MemSetTest\MemSetTest.vcxproj", "{ED83044A-8BDB-46C3-B2B0-B4983C9E1A30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED83044A-8BDB-46C3-B2B0-B4983C9E1A30}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED83044A-8BDB-46C3-B2B0-B4983C9E1A30}.Debug|Win32.Build.0 = Debug|Win32
+		{ED83044A-8BDB-46C3-B2B0-B4983C9E1A30}.Release|Win32.ActiveCfg = Release|Win32
+		{ED83044A-8BDB-46C3-B2B0-B4983C9E1A30}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
